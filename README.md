@@ -1,7 +1,3 @@
-Certainly! Here's a structured README file content that you can include in your GitHub repository for your Visual Basic Windows Desktop application:
-
----
-
 # Slidely Desktop Application
 
 This repository contains a Windows Desktop application built using Visual Basic with functionality to manage submissions through a graphical user interface.
