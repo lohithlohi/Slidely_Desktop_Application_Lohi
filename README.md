@@ -23,11 +23,11 @@ This repository contains a Windows Desktop application built using Visual Basic 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/slidely-desktop.git
+   https://github.com/lohithlohi/Slidely_Desktop_Application_Lohi.git
    ```
 
 2. **Open Project in Visual Studio**:
-   - Navigate to the cloned directory `slidely-desktop`.
+   - Navigate to the cloned directory `Slidely_Desktop_Application_Lohi`.
    - Open `SlidelyDesktopApp.sln` file in Visual Studio.
 
 3. **Run Backend Server**:
